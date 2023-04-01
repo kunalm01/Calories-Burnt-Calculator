@@ -1,1 +1,2 @@
-# CalsBurnt
+# Calories Burnt Calculator
+
