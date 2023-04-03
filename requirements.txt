@@ -1,7 +1,7 @@
 alabaster==0.7.13
-anyio @ file:///C:/ci_311/anyio_1676425491996/work/dist
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///C:/ci_311/argon2-cffi-bindings_1676424443321/work
+anyio 
+argon2-cffi 
+argon2-cffi-bindings 
 arrow==1.2.3
 astroid==2.15.1
 asttokens==2.2.1
